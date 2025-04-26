@@ -14,13 +14,6 @@
 - 🌐 Currently learning **Web Development** and expanding my skills in **C++**.
 - 🔒 Passionate about **Cyber Security** and exploring **Competitive Programming**.
 
----
-
-## 📝 Short Bio
-> *"I am a passionate learner, building my foundations strong in web development while exploring the exciting world of cyber security and problem-solving through competitive programming. My goal is to become a skilled software engineer who creates meaningful and secure digital solutions."*
-
----
-
 ## 🛠️ Skills
 - **Languages**: C, C++
 - **Frontend**: HTML, CSS, Bootstrap, React
@@ -29,7 +22,6 @@
 - Mastering core concepts of **Data Structures and Algorithms**.
 - Building interactive projects with **React** and **Bootstrap**.
 - Exploring basics of **Cyber Security** fundamentals.
-
 
 ## 📈 GitHub Stats
 <p align="center">
