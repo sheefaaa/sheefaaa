@@ -1,13 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+There+...;I'm+Israt+Jahan+Shefa;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+There+.+.+.;I'm+Israt+Jahan+Shefa;" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sheefaaa&color=red" alt="Profile Views"/>
-</p>
-
-<p align="center">
-  <img src="https://wallpapers.com/images/high/4k-anime-space-qca4s2pndbgo0s5r.webp" width="100%" height="500vh" />
 </p>
 
 ---
