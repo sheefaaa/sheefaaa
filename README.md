@@ -36,12 +36,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheefaaa&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=sheefaaa&show_icons=true&count_private=true&theme=radical&border_radius=10" width="49.5%" />
-   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sheefaaa&langs_count=8&layout=compact&theme=radical&border_radius=10" width="49.5%" />
+ 
+   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sheefaaa&langs_count=8&layout=compact&theme=radical&border_radius=10" width="100%" />
 </p>
 
 <p align="center">
