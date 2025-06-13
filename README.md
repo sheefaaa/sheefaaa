@@ -32,13 +32,6 @@
 
 ---
 
-## 🚀 Current Focus
-
-- 📘 Mastering core concepts of **Data Structures and Algorithms**
-- ⚛️ Building interactive projects with **React**, **Tailwind CSS**, and **Bootstrap**
-- 🔒 Exploring fundamentals of **Cyber Security**
-
----
 
 ## 📈 GitHub Stats
 
@@ -48,7 +41,7 @@
 
 <p align="center">
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=sheefaaa&show_icons=true&count_private=true&theme=radical&border_radius=10" width="49.5%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheefaaa&theme=radical&hide_border=true" width="49.5%" />
+   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sheefaaa&langs_count=8&layout=compact&theme=radical&border_radius=10" width="49.5%" />
 </p>
 
 <p align="center">
