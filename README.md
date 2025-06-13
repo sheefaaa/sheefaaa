@@ -37,7 +37,7 @@
 
 <p align="center">
  
-   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sheefaaa&langs_count=8&layout=compact&theme=radical&border_radius=10" width="100%" />
+   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sheefaaa&langs_count=8&layout=compact&theme=radical&border_radius=10" width="49.5%" />
 </p>
 
 <p align="center">
