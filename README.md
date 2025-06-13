@@ -48,11 +48,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sheefaaa&theme=react-dark&area=true&hide_border=true" />
 </p>
 
-<p align="center">
-   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sheefaaa&langs_count=8&layout=compact&theme=radical&border_radius=10" width="49.5%" />
-   <img src="https://github-profile-trophy.vercel.app/?username=sheefaaa&theme=onedark&no-frame=true&column=4" width="49.5%" />
-</p>
-
 ---
 
 ## 🌐 Connect with Me
