@@ -11,7 +11,7 @@
 
 ## 👩‍💻 About Me
 
-🎓 I'm a 3rd semester student of **Software Engineering** at [Daffodil International University](https://daffodilvarsity.edu.bd)  
+🎓 I'm a 4th semester student of **Software Engineering** at [Daffodil International University](https://daffodilvarsity.edu.bd)  
 🌱 Currently learning **Web Development**, and advancing my skills in **C++**  
 🔐 Passionate about **Cyber Security** and **Competitive Programming**
 
